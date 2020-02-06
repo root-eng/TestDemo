@@ -7,5 +7,6 @@ public class gitDemo {
         System.out.println("git上增加代码");
         System.out.println("A增加的代码");
         System.out.println("A增加2");
+        System.out.println("b增加的代码");
     }
 }
