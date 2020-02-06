@@ -5,5 +5,6 @@ public class gitDemo {
         System.out.println("hello git");
         System.out.println("第一次增加代码");
         System.out.println("git上增加代码");
+        System.out.println("A增加的代码");
     }
 }
